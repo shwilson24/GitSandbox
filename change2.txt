@@ -1,3 +1,5 @@
-"change 2" 
+Hello world, This is vim. 
 
-friend
+I am an editor. What are you?
+
+Testing.
